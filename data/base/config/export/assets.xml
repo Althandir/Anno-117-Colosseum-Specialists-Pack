@@ -6,7 +6,7 @@
 
 ###  
 #   GUID-Ranges:  
-#   1600000xxx - 1600000xxx 
+#   1600000144 - 1600000xxx 
 #
 #
 #
@@ -27,7 +27,7 @@
 
 <!-- Common Specialists -->
 <Group>
-    <Include File="items-common/Test-C.xml" />
+    
 </Group>
 
 <!-- Rare Specialists -->
@@ -42,7 +42,7 @@
 
 <!-- Legendary Specialists -->
 <Group>
-
+    <Include File="items-legendary/AreaEffect-CollosseumGladiator-L.xml" />
 </Group>
 
 <!-- Add to Pools -->

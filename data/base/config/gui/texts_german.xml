@@ -1,34 +1,19 @@
 <ModOps>
 
-  <!-- Specialist Test-C -->
+  <!-- Specialist AreaEffect-CollosseumGladiator-L -->
   <Group>
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
       <Text>
-          <Text>Specialist Test-C</Text>
-          <LineId>1600000000</LineId> <!-- <GUID>1600000000</GUID> -->
+          <Text>Leo Victor, Brüllender Gladiator</Text>
+          <LineId>1600000144</LineId> <!-- <GUID>1600000144</GUID> -->
       </Text>
       <!-- Description -->
       <Text>
-          <Text>Test Text. Meb Meb!</Text>
-          <LineId>1600000001</LineId> 
+          <Text>Brüllt laut wie ein Löwe! Bereit für Ruhm zu kämpfen!</Text>
+          <LineId>1600000145</LineId> 
       </Text>
     </ModOp>
   </Group>
 
-  <!-- Specialist Test-C -->
-  <Group>
-    <ModOp Add="/TextExport/Texts">
-      <!-- Title -->
-      <Text>
-          <Text>Specialist AreaEffect-Test-C</Text>
-          <LineId>1600000002</LineId> <!-- <GUID>1600000002</GUID> -->
-      </Text>
-      <!-- Description -->
-      <Text>
-          <Text>Test Text. Meb Meb!</Text>
-          <LineId>1600000003</LineId> 
-      </Text>
-    </ModOp>
-  </Group>
 </ModOps>
