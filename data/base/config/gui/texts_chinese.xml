@@ -1,0 +1,19 @@
+<ModOps>
+
+  <!-- Specialist AreaEffect-CollosseumGladiator-L -->
+  <Group>
+    <ModOp Add="/TextExport/Texts">
+      <!-- Title -->
+      <Text>
+          <Text>Leo Victor, Roaring Gladiator</Text>
+          <LineId>1600000144</LineId> <!-- <GUID>1600000144</GUID> -->
+      </Text>
+      <!-- Description -->
+      <Text>
+          <Text>Roars loud like a lion! Ready to fight for glory!</Text>
+          <LineId>1600000145</LineId> 
+      </Text>
+    </ModOp>
+  </Group>
+
+</ModOps>
