@@ -18,41 +18,18 @@
 -->
 <ModOps>
 
-<!-- Testing -->
-<Group>
-<!--
-<Include File="testing/pools-forceSpawnTesting.xml"/> 
--->
-</Group>
-
-<!-- Common Specialists -->
-<Group>
-    
-</Group>
-
-<!-- Rare Specialists -->
-<Group>
-
-</Group>
-
-<!-- Epic Specialists -->
-<Group>
-
-</Group>
-
 <!-- Legendary Specialists -->
 <Group>
-    <Include File="items-legendary/AreaEffect-CollosseumGladiator-L.xml" />
+    <Include File="items/AE-Collo-Gladiator-L.xml" />
 </Group>
 
 <!-- Add to Pools -->
 <Include File="pools/AssetList/AssetListPool.xml" />
-<Include File="pools/RewardPool/RewardPool-AllItems&Specialists.xml" />
+<Include File="pools/RewardPool/AllItems&Specialists.xml" />
+
+
 
 <!-- Add to Traderpools --> 
-<Include File="pools/Traders/pools-common.xml" />
-<Include File="pools/Traders/pools-rare.xml" />
-<Include File="pools/Traders/pools-epic.xml" />
 <Include File="pools/Traders/pools-legendary.xml" />
 
 

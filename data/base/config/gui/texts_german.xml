@@ -1,19 +1,66 @@
 <ModOps>
 
-  <!-- Specialist AreaEffect-CollosseumGladiator-L -->
-  <Group>
-    <ModOp Add="/TextExport/Texts">
-      <!-- Title -->
-      <Text>
-          <Text>Leo Victor, Brüllender Gladiator</Text>
-          <LineId>1600000144</LineId> <!-- <GUID>1600000144</GUID> -->
-      </Text>
-      <!-- Description -->
-      <Text>
-          <Text>Brüllt laut wie ein Löwe! Bereit für Ruhm zu kämpfen!</Text>
-          <LineId>1600000145</LineId> 
-      </Text>
-    </ModOp>
-  </Group>
+    <!-- Specialist AE-Collo-Gladiator-L -->
+    <Group>
+        <ModOp Add="/TextExport/Texts">
+            <!-- Title -->
+            <Text>
+                <Text>Leo Victor, Brüllender Gladiator</Text>
+                <LineId>1600000144</LineId> <!-- <GUID>1600000144</GUID> -->
+            </Text>
+            <!-- Description -->
+            <Text>
+                <Text>Brüllt laut wie ein Löwe! Bereit für Ruhm zu kämpfen! &#xD;(Colosseum-Pack)</Text>
+                <LineId>1600000145</LineId> 
+            </Text>
+            <!-- Boosted Description -->
+            <Text>
+                <Text>PlaceholderText &#xD;(Lion in same Building)</Text>
+                <LineId>1600000146</LineId> 
+            </Text>
+        </ModOp>
+    </Group>
+
+    <!-- Specialist AE-Collo-Lion-L -->
+    <Group>
+        <ModOp Add="/TextExport/Texts">
+            <!-- Title -->
+            <Text>
+                <Text>PlaceholderText (Löwe)</Text>
+                <LineId>1600000583</LineId> <!-- <GUID>1600000583</GUID> -->
+            </Text>
+            <!-- Description -->
+            <Text>
+                <Text>PlaceholderText &#xD;(Colosseum-Pack)</Text>
+                <LineId>1600000584</LineId> 
+            </Text>
+            <!-- Boosted Description -->
+            <Text>
+                <Text>PlaceholderText &#xD;(3x Sheep Pasture on Island)</Text>
+                <LineId>1600000585</LineId> 
+            </Text>
+        </ModOp>
+    </Group>
+
+    <!-- Specialist AE-Collo-Bear-L -->
+    <Group>
+        <ModOp Add="/TextExport/Texts">
+            <!-- Title -->
+            <Text>
+                <Text>Wojtecus, Adoptierter Persischer Kriegbär</Text>
+                <LineId>1600000590</LineId> <!-- <GUID>1600000590</GUID> -->
+            </Text>
+            <!-- Description -->
+            <Text>
+                <Text>PlaceholderText &#xD;(Colosseum-Pack)</Text>
+                <LineId>1600000591</LineId> 
+            </Text>
+            <!-- Boosted Description -->
+            <Text>
+                <Text>PlaceholderText &#xD;(2x Barracks on Island)</Text>
+                <LineId>1600000592</LineId> 
+            </Text>
+        </ModOp>
+    </Group>
 
 </ModOps>
