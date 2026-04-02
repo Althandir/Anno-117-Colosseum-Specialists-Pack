@@ -20,7 +20,10 @@
 
 <!-- Legendary Specialists -->
 <Group>
+    <Include File="items/AE-Collo-Bear-L.xml" />
     <Include File="items/AE-Collo-Gladiator-L.xml" />
+    <Include File="items/AE-Collo-Lion-L.xml" />
+    <Include File="items/AE-Collo-Trident-L.xml" />
 </Group>
 
 <!-- Add to Pools -->
