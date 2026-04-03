@@ -1,20 +1,128 @@
 <ModOps>
 
-  <!-- Specialist AE-Collo-Gladiator-L -->
-  <Group>
-    <ModOp Add="/TextExport/Texts">
-      <!-- Title -->
-      <Text>
-          <Text>Leo Victor, gladiateur rugissant</Text>
-          <LineId>1600000144</LineId> <!-- <GUID>1600000144</GUID> -->
-      </Text>
-      <!-- Description -->
-      <Text>
-          <Text>Il rugit comme un lion ! Prêt à se battre pour la gloire !</Text>
-          <LineId>1600000145</LineId> 
-      </Text>
-    </ModOp>
-  </Group>
+    <!-- Specialist AE-Collo-Gladiator-L -->
+    <Group>
+        <ModOp Add="/TextExport/Texts">
+            <!-- Title -->
+            <Text>
+                <Text>Leo Victor, The Roaring Gladiator</Text>
+                <LineId>1600000144</LineId> <!-- <GUID>1600000144</GUID> -->
+            </Text>
+            <!-- Description -->
+            <Text>
+                <Text>"His roar sends shivers down the audience's spines and leaves his opponents frozen in fear.&#xD;Now he's ready to fight for glory in the arena!" &#xD;(Colosseum-Pack)</Text>
+                <LineId>1600000145</LineId> 
+            </Text>
+            <!-- Boosted Description -->
+            <Text>
+                <Text>He wants to surpass a real lion with his roar! &#xD;(Furious Lion in same Officium / Villa)</Text>
+                <LineId>1600000146</LineId> 
+            </Text>
+        </ModOp>
+    </Group>
 
+    <!-- Specialist AE-Collo-Lion-L -->
+    <Group>
+        <ModOp Add="/TextExport/Texts">
+            <!-- Title -->
+            <Text>
+                <Text>Furious Lion</Text>
+                <LineId>1600000583</LineId> <!-- <GUID>1600000583</GUID> -->
+            </Text>
+            <!-- Description -->
+            <Text>
+                <Text>"His claws tear apart every opponent in the arena.&#xD;May Jupiter have mercy on his victims!" &#xD;(Colosseum-Pack)</Text>
+                <LineId>1600000584</LineId> 
+            </Text>
+            <!-- Boosted Description -->
+            <Text>
+                <Text>Helpless sheep are the perfect diet for lions. &#xD;(3x Sheep pastures on Island)</Text>
+                <LineId>1600000585</LineId> 
+            </Text>
+        </ModOp>
+    </Group>
 
+    <!-- Specialist AE-Collo-Bear-L -->
+    <Group>
+        <ModOp Add="/TextExport/Texts">
+            <!-- Title -->
+            <Text>
+                <Text>Wojtecus, Adopted Persian War Bear</Text>
+                <LineId>1600000590</LineId> <!-- <GUID>1600000590</GUID> -->
+            </Text>
+            <!-- Description -->
+            <Text>
+                <Text>"This bear from the lands of the Persians is now here to fight for his place in the arena!&#xD;And he fights in a surprisingly similar manner to a legionnaire!" &#xD;(Colosseum-Pack)</Text>
+                <LineId>1600000591</LineId> 
+            </Text>
+            <!-- Boosted Description -->
+            <Text>
+                <Text>Often escapes from its enclosure and loves to mingle with the Legionnaires. &#xD;(2x Barracks on Island)</Text>
+                <LineId>1600000592</LineId> 
+            </Text>
+        </ModOp>
+    </Group>
+
+    <!-- Specialist AE-Collo-Trident-L -->
+    <Group>
+        <ModOp Add="/TextExport/Texts">
+            <!-- Title -->
+            <Text>
+                <Text>Tridentinus, The Glorious Trident</Text>
+                <LineId>1600000597</LineId> <!-- <GUID>1600000597</GUID> -->
+            </Text>
+            <!-- Description -->
+            <Text>
+                <Text>"This retiarius uses Neptune's weapon against his opponents!&#xD;Whether he also has Neptune's blessing remains to be seen!" &#xD;(Colosseum-Pack)</Text>
+                <LineId>1600000598</LineId> 
+            </Text>
+            <!-- Boosted Description -->
+            <Text>
+                <Text>Wants to battle aquatic creatures. &#xD;(Bloodthirsty Shark in same Officium / Villa)</Text>
+                <LineId>1600000599</LineId> 
+            </Text>
+        </ModOp>
+    </Group>
+
+    <!-- Specialist AE-Collo-Shark-L -->
+    <Group>
+        <ModOp Add="/TextExport/Texts">
+            <!-- Title -->
+            <Text>
+                <Text>Bloodthirsty Shark</Text>
+                <LineId>1600000604</LineId> <!-- <GUID>1600000604</GUID> -->
+            </Text>
+            <!-- Description -->
+            <Text>
+                <Text>"The monster of the seas! During the Naumachia, this shark is always good for a surprise and leaves nothing but a pool of blood in its wake!" &#xD;(Colosseum-Pack)</Text>
+                <LineId>1600000605</LineId> 
+            </Text>
+            <!-- Boosted Description -->
+            <Text>
+                <Text>Fish should keep the shark appeased. &#xD;(8x Fisheries on Island)</Text>
+                <LineId>1600000606</LineId> 
+            </Text>
+        </ModOp>
+    </Group>
+
+    <!-- Specialist AE-Collo-Celt-Gladiator-L -->
+    <Group>
+        <ModOp Add="/TextExport/Texts">
+            <!-- Title -->
+            <Text>
+                <Text>Uernos, The Nordic Hunter</Text>
+                <LineId>1600000610</LineId> <!-- <GUID>1600000604</GUID> -->
+            </Text>
+            <!-- Description -->
+            <Text>
+                <Text>"Look north, where the frost steals one’s breath!&#xD;Here stands Uernos, whom they call only The Northic Hunter! This Celt knows every creature that roams the deep snow, and has now come here to seek new, bloody adversaries under our sun.&#xD;Tell me: Do we wish this master of the wilderness well? Or shall this savage perish in the dust of our arena?!" &#xD;(Colosseum-Pack)</Text>
+                <LineId>1600000611</LineId> 
+            </Text>
+            <!-- Boosted Description -->
+            <Text>
+                <Text>Longs to fight a bear from another land. &#xD;(Persian Bear in same Officium / Villa)</Text>
+                <LineId>1600000612</LineId> 
+            </Text>
+        </ModOp>
+    </Group>
 </ModOps>
