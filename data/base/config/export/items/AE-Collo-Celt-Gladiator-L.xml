@@ -1,22 +1,22 @@
 <ModOps>
-<!-- Item Definition GUID:1600000597 - 1600000600 + 1600000601 - 1600000603 | LineID:1600000597 - 1600000599 -->
+<!-- Item Definition GUID:1600000610 - 1600000613 + 1600000614 - 1600000616 | LineID:1600000610 - 1600000612 -->
     <Group>
         <ModOp Type="addNextSibling" GUID="106410">
         <Asset>
             <Template>ItemWithBoost</Template>
             <Values>
             <Standard>
-                <GUID>1600000597</GUID>
-                <Name>Specialist AE-Collo-Trident-L</Name>
-                <IconFilename>data/base/graphics/icons/Gladiator_Trident.png</IconFilename>
-                <InfoDescription>1600000598</InfoDescription>
+                <GUID>1600000610</GUID>
+                <Name>Specialist AE-Collo-Celt-Gladiator-L</Name>
+                <IconFilename>data/base/graphics/icons/_Placeholder.jpeg</IconFilename>
+                <InfoDescription>1600000611</InfoDescription>
             </Standard>
             <Effect>
                 <EffectScope>Radius</EffectScope>  
                 <SourceCategory>Item</SourceCategory>
                 <Buffs>
                 <Item>
-                    <GUID>1600000598</GUID>
+                    <GUID>1600000611</GUID>
                 </Item>
                 </Buffs>
                 <Targets> <!-- Targets of Buff -->
@@ -36,7 +36,7 @@
                 <DefaultLockedState>0</DefaultLockedState>
             </Locked>
             <Text>
-                <OasisId>1600000597</OasisId>
+                <OasisId>1600000610</OasisId>
             </Text>
             
             <ItemWithBoost>
@@ -44,13 +44,13 @@
                 <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
                 <Values>
                     <PreConditionList>
-                        <!-- Condition - Shark in same Building -->
+                        <!-- Condition - Bear in same Building -->
                         <Condition>
                             <Template>ConditionItemUsed</Template>
                             <Values>
                                 <Condition/>
                                 <ConditionItemUsed>
-                                    <TargetItem>1600000604</TargetItem> <!-- <GUID>1600000604</GUID> -->
+                                    <TargetItem>1600000590</TargetItem> <!-- <GUID>1600000590</GUID> -->
                                     <ItemAmount>1</ItemAmount>
                                     <ItemCountCalculation>InSameObject</ItemCountCalculation>
                                 </ConditionItemUsed>
@@ -64,10 +64,10 @@
                 </BoostCondition>
                 <BoostBuffs>
                 <Item>
-                    <GUID>1600000601</GUID>
+                    <GUID>1600000614</GUID>
                 </Item>
                 </BoostBuffs>
-                <BoostHint>1600000599</BoostHint>
+                <BoostHint>1600000612</BoostHint>
             </ItemWithBoost>
 
             </Values>
@@ -83,16 +83,16 @@
                 <Template>BuildingBuff</Template>
                 <Values>
                     <Standard>
-                        <GUID>1600000598</GUID>
-                        <Name>Specialist AE-Collo-Trident-L BuildingBuff</Name>
-                        <IconFilename>data/base/graphics/icons/Gladiator_Trident.png</IconFilename>
+                        <GUID>1600000611</GUID>
+                        <Name>Specialist AE-Collo-Celt-Gladiator-L BuildingBuff</Name>
+                        <IconFilename>data/base/graphics/icons/_Placeholder.jpeg</IconFilename>
                     </Standard>
                     <Text>
-                        <OasisId>1600000597</OasisId>
+                        <OasisId>1600000610</OasisId>
                     </Text>
                     <HealthUpgrade/>
                     <BuildingUpgrade>
-                        <AdditionalFunctionalEffect>1600000599</AdditionalFunctionalEffect>
+                        <AdditionalFunctionalEffect>1600000612</AdditionalFunctionalEffect>
                     </BuildingUpgrade>
                     <DistributionUpgrade/>
                     <Buff>
@@ -118,16 +118,16 @@
                 <Template>Effect</Template>
                 <Values>
                     <Standard>
-                        <GUID>1600000599</GUID>
-                        <Name>Specialist AE-Collo-Trident-L FunctionalEffect</Name>
-                        <IconFilename>data/base/graphics/icons/Gladiator_Trident.png</IconFilename>
+                        <GUID>1600000612</GUID>
+                        <Name>Specialist AE-Collo-Celt-Gladiator-L FunctionalEffect</Name>
+                        <IconFilename>data/base/graphics/icons/_Placeholder.jpeg</IconFilename>
                     </Standard>
                     <Effect>
                         <EffectScope>StreetDistance</EffectScope>
                         <SourceCategory>Adjacency</SourceCategory>
                         <Buffs>
                             <Item>
-                                <GUID>1600000600</GUID>
+                                <GUID>1600000613</GUID>
                             </Item>
                         </Buffs>
                         <Targets>
@@ -139,7 +139,7 @@
                         <HideInGovernorsBar>1</HideInGovernorsBar>
                     </Effect>
                     <Text>
-                        <OasisId>1600000597</OasisId>
+                        <OasisId>1600000610</OasisId>
                     </Text>
                 </Values>
             </Asset>
@@ -150,12 +150,12 @@
                 <Template>BuildingBuff</Template>
                 <Values>
                     <Standard>
-                        <GUID>1600000600</GUID>
-                        <Name>Specialist AE-Collo-Trident-L FunctionalEffect BuildingBuff</Name>
-                        <IconFilename>data/base/graphics/icons/Gladiator_Trident.png</IconFilename>
+                        <GUID>1600000613</GUID>
+                        <Name>Specialist AE-Collo-Celt-Gladiator-L FunctionalEffect BuildingBuff</Name>
+                        <IconFilename>data/base/graphics/icons/_Placeholder.jpeg</IconFilename>
                     </Standard>
                     <Text>
-                        <OasisId>1600000597</OasisId>
+                        <OasisId>1600000610</OasisId>
                     </Text>
                     <HealthUpgrade/>
                     <BuildingUpgrade>
@@ -168,13 +168,13 @@
                             </Population>
                             <Happiness>
                                 <AmountOrPercent>
-                                    <Value>0.5</Value>
+                                    <Value>0</Value>
                                     <Percental>0</Percental>
                                 </AmountOrPercent>
                             </Happiness>
                             <Money>
                                 <AmountOrPercent>
-                                    <Value>0</Value>
+                                    <Value>0.5</Value>
                                     <Percental>0</Percental>
                                 </AmountOrPercent>
                             </Money>
@@ -198,13 +198,13 @@
                             </Knowledge>
                             <FireSafety>
                                 <AmountOrPercent>
-                                    <Value>1</Value>
+                                    <Value>0</Value>
                                     <Percental>0</Percental>
                                 </AmountOrPercent>
                             </FireSafety>
                             <Health>
                                 <AmountOrPercent>
-                                    <Value>0</Value>
+                                    <Value>1</Value>
                                     <Percental>0</Percental>
                                 </AmountOrPercent>
                             </Health>
@@ -237,16 +237,16 @@
                 <Template>BuildingBuff</Template>
                 <Values>
                     <Standard>
-                        <GUID>1600000601</GUID>
-                        <Name>Specialist AE-Collo-Trident-L Boosted BuildingBuff</Name>
-                        <IconFilename>data/base/graphics/icons/Gladiator_Trident.png</IconFilename>
+                        <GUID>1600000614</GUID>
+                        <Name>Specialist AE-Collo-Celt-Gladiator-L Boosted BuildingBuff</Name>
+                        <IconFilename>data/base/graphics/icons/_Placeholder.jpeg</IconFilename>
                     </Standard>
                     <Text>
-                        <OasisId>1600000597</OasisId>
+                        <OasisId>1600000610</OasisId>
                     </Text>
                     <HealthUpgrade/>
                     <BuildingUpgrade>
-                        <AdditionalFunctionalEffect>1600000602</AdditionalFunctionalEffect>
+                        <AdditionalFunctionalEffect>1600000615</AdditionalFunctionalEffect>
                     </BuildingUpgrade>
                     <DistributionUpgrade/>
                     <Buff>
@@ -272,16 +272,16 @@
                 <Template>Effect</Template>
                 <Values>
                     <Standard>
-                        <GUID>1600000602</GUID>
-                        <Name>Specialist AE-Collo-Trident-L Boosted FunctionalEffect</Name>
-                        <IconFilename>data/base/graphics/icons/Gladiator_Trident.png</IconFilename>
+                        <GUID>1600000615</GUID>
+                        <Name>Specialist AE-Collo-Celt-Gladiator-L Boosted FunctionalEffect</Name>
+                        <IconFilename>data/base/graphics/icons/_Placeholder.jpeg</IconFilename>
                     </Standard>
                     <Effect>
                         <EffectScope>StreetDistance</EffectScope>
                         <SourceCategory>Adjacency</SourceCategory>
                         <Buffs>
                             <Item>
-                                <GUID>1600000603</GUID>
+                                <GUID>1600000616</GUID>
                             </Item>
                         </Buffs>
                         <Targets>
@@ -293,7 +293,7 @@
                         <HideInGovernorsBar>1</HideInGovernorsBar>
                     </Effect>
                     <Text>
-                        <OasisId>1600000597</OasisId>
+                        <OasisId>1600000610</OasisId>
                     </Text>
                 </Values>
             </Asset>
@@ -304,12 +304,12 @@
                 <Template>BuildingBuff</Template>
                 <Values>
                     <Standard>
-                        <GUID>1600000603</GUID>
-                        <Name>Specialist AE-Collo-Trident-L Boosted FunctionalEffect BuildingBuff</Name>
-                        <IconFilename>data/base/graphics/icons/Gladiator_Trident.png</IconFilename>
+                        <GUID>1600000616</GUID>
+                        <Name>Specialist AE-Collo-Celt-Gladiator-L Boosted FunctionalEffect BuildingBuff</Name>
+                        <IconFilename>data/base/graphics/icons/_Placeholder.jpeg</IconFilename>
                     </Standard>
                     <Text>
-                        <OasisId>1600000597</OasisId>
+                        <OasisId>1600000610</OasisId>
                     </Text>
                     <HealthUpgrade/>
                     <BuildingUpgrade>
@@ -322,13 +322,13 @@
                             </Population>
                             <Happiness>
                                 <AmountOrPercent>
-                                    <Value>1</Value>
+                                    <Value>0</Value>
                                     <Percental>0</Percental>
                                 </AmountOrPercent>
                             </Happiness>
                             <Money>
                                 <AmountOrPercent>
-                                    <Value>0</Value>
+                                    <Value>1</Value>
                                     <Percental>0</Percental>
                                 </AmountOrPercent>
                             </Money>
@@ -352,13 +352,13 @@
                             </Knowledge>
                             <FireSafety>
                                 <AmountOrPercent>
-                                    <Value>2</Value>
+                                    <Value>0</Value>
                                     <Percental>0</Percental>
                                 </AmountOrPercent>
                             </FireSafety>
                             <Health>
                                 <AmountOrPercent>
-                                    <Value>0</Value>
+                                    <Value>2</Value>
                                     <Percental>0</Percental>
                                 </AmountOrPercent>
                             </Health>

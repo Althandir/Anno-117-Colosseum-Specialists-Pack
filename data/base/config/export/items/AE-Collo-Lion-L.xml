@@ -7,7 +7,7 @@
             <Values>
             <Standard>
                 <GUID>1600000583</GUID>
-                <Name>Specialist AE-Collo-Lion-E</Name>
+                <Name>Specialist AE-Collo-Lion-L</Name>
                 <IconFilename>data/base/graphics/icons/_Placeholder.jpeg</IconFilename>
                 <InfoDescription>1600000584</InfoDescription>
             </Standard>
@@ -99,7 +99,7 @@
                 <Values>
                     <Standard>
                         <GUID>1600000584</GUID>
-                        <Name>Specialist AE-Collo-Lion-E BuildingBuff</Name>
+                        <Name>Specialist AE-Collo-Lion-L BuildingBuff</Name>
                         <IconFilename>data/base/graphics/icons/_Placeholder.jpeg</IconFilename>
                     </Standard>
                     <Text>
@@ -134,7 +134,7 @@
                 <Values>
                     <Standard>
                         <GUID>1600000585</GUID>
-                        <Name>Specialist AE-Collo-Lion-E FunctionalEffect</Name>
+                        <Name>Specialist AE-Collo-Lion-L FunctionalEffect</Name>
                         <IconFilename>data/base/graphics/icons/_Placeholder.jpeg</IconFilename>
                     </Standard>
                     <Effect>
@@ -166,7 +166,7 @@
                 <Values>
                     <Standard>
                         <GUID>1600000586</GUID>
-                        <Name>Specialist AE-Collo-Lion-E FunctionalEffect BuildingBuff</Name>
+                        <Name>Specialist AE-Collo-Lion-L FunctionalEffect BuildingBuff</Name>
                         <IconFilename>data/base/graphics/icons/_Placeholder.jpeg</IconFilename>
                     </Standard>
                     <Text>
@@ -201,13 +201,13 @@
                             </Prestige>
                             <Belief>
                                 <AmountOrPercent>
-                                    <Value>0.5</Value>
+                                    <Value>0</Value>
                                     <Percental>0</Percental>
                                 </AmountOrPercent>
                             </Belief>
                             <Knowledge>
                                 <AmountOrPercent>
-                                    <Value>0.5</Value>
+                                    <Value>1</Value>
                                     <Percental>0</Percental>
                                 </AmountOrPercent>
                             </Knowledge>
@@ -253,7 +253,7 @@
                 <Values>
                     <Standard>
                         <GUID>1600000587</GUID>
-                        <Name>Specialist AE-Collo-Lion-E Boosted BuildingBuff</Name>
+                        <Name>Specialist AE-Collo-Lion-L Boosted BuildingBuff</Name>
                         <IconFilename>data/base/graphics/icons/_Placeholder.jpeg</IconFilename>
                     </Standard>
                     <Text>
@@ -288,7 +288,7 @@
                 <Values>
                     <Standard>
                         <GUID>1600000588</GUID>
-                        <Name>Specialist AE-Collo-Lion-E Boosted FunctionalEffect</Name>
+                        <Name>Specialist AE-Collo-Lion-L Boosted FunctionalEffect</Name>
                         <IconFilename>data/base/graphics/icons/_Placeholder.jpeg</IconFilename>
                     </Standard>
                     <Effect>
@@ -320,7 +320,7 @@
                 <Values>
                     <Standard>
                         <GUID>1600000589</GUID>
-                        <Name>Specialist AE-Collo-Lion-E Boosted FunctionalEffect BuildingBuff</Name>
+                        <Name>Specialist AE-Collo-Lion-L Boosted FunctionalEffect BuildingBuff</Name>
                         <IconFilename>data/base/graphics/icons/_Placeholder.jpeg</IconFilename>
                     </Standard>
                     <Text>
@@ -329,7 +329,7 @@
                     <HealthUpgrade/>
                     <BuildingUpgrade>
                         <AdditionalAttributes>
-                                                        <Population>
+                            <Population>
                                 <AmountOrPercent>
                                     <Value>0</Value>
                                     <Percental>0</Percental>
@@ -355,13 +355,13 @@
                             </Prestige>
                             <Belief>
                                 <AmountOrPercent>
-                                    <Value>1</Value>
+                                    <Value>0</Value>
                                     <Percental>0</Percental>
                                 </AmountOrPercent>
                             </Belief>
                             <Knowledge>
                                 <AmountOrPercent>
-                                    <Value>1</Value>
+                                    <Value>2</Value>
                                     <Percental>0</Percental>
                                 </AmountOrPercent>
                             </Knowledge>

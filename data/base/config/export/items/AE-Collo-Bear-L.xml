@@ -7,7 +7,7 @@
             <Values>
             <Standard>
                 <GUID>1600000590</GUID>
-                <Name>Specialist AE-Collo-Bear-E</Name>
+                <Name>Specialist AE-Collo-Bear-L</Name>
                 <IconFilename>data/base/graphics/icons/brown_bear.png</IconFilename>
                 <InfoDescription>1600000591</InfoDescription>
             </Standard>
@@ -99,7 +99,7 @@
                 <Values>
                     <Standard>
                         <GUID>1600000591</GUID>
-                        <Name>Specialist AE-Collo-Bear-E BuildingBuff</Name>
+                        <Name>Specialist AE-Collo-Bear-L BuildingBuff</Name>
                         <IconFilename>data/base/graphics/icons/brown_bear.png</IconFilename>
                     </Standard>
                     <Text>
@@ -134,7 +134,7 @@
                 <Values>
                     <Standard>
                         <GUID>1600000592</GUID>
-                        <Name>Specialist AE-Collo-Bear-E FunctionalEffect</Name>
+                        <Name>Specialist AE-Collo-Bear-L FunctionalEffect</Name>
                         <IconFilename>data/base/graphics/icons/brown_bear.png</IconFilename>
                     </Standard>
                     <Effect>
@@ -166,7 +166,7 @@
                 <Values>
                     <Standard>
                         <GUID>1600000593</GUID>
-                        <Name>Specialist AE-Collo-Bear-E FunctionalEffect BuildingBuff</Name>
+                        <Name>Specialist AE-Collo-Bear-L FunctionalEffect BuildingBuff</Name>
                         <IconFilename>data/base/graphics/icons/brown_bear.png</IconFilename>
                     </Standard>
                     <Text>
@@ -183,7 +183,7 @@
                             </Population>
                             <Happiness>
                                 <AmountOrPercent>
-                                    <Value>1</Value>
+                                    <Value>0.5</Value>
                                     <Percental>0</Percental>
                                 </AmountOrPercent>
                             </Happiness>
@@ -253,7 +253,7 @@
                 <Values>
                     <Standard>
                         <GUID>1600000594</GUID>
-                        <Name>Specialist AE-Collo-Bear-E Boosted BuildingBuff</Name>
+                        <Name>Specialist AE-Collo-Bear-L Boosted BuildingBuff</Name>
                         <IconFilename>data/base/graphics/icons/brown_bear.png</IconFilename>
                     </Standard>
                     <Text>
@@ -288,7 +288,7 @@
                 <Values>
                     <Standard>
                         <GUID>1600000595</GUID>
-                        <Name>Specialist AE-Collo-Bear-E Boosted FunctionalEffect</Name>
+                        <Name>Specialist AE-Collo-Bear-L Boosted FunctionalEffect</Name>
                         <IconFilename>data/base/graphics/icons/brown_bear.png</IconFilename>
                     </Standard>
                     <Effect>
@@ -320,7 +320,7 @@
                 <Values>
                     <Standard>
                         <GUID>1600000596</GUID>
-                        <Name>Specialist AE-Collo-Bear-E Boosted FunctionalEffect BuildingBuff</Name>
+                        <Name>Specialist AE-Collo-Bear-L Boosted FunctionalEffect BuildingBuff</Name>
                         <IconFilename>data/base/graphics/icons/brown_bear.png</IconFilename>
                     </Standard>
                     <Text>
@@ -337,7 +337,7 @@
                             </Population>
                             <Happiness>
                                 <AmountOrPercent>
-                                    <Value>2</Value>
+                                    <Value>1</Value>
                                     <Percental>0</Percental>
                                 </AmountOrPercent>
                             </Happiness>

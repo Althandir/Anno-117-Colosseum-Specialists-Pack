@@ -63,4 +63,66 @@
         </ModOp>
     </Group>
 
+    <!-- Specialist AE-Collo-Trident-L -->
+    <Group>
+        <ModOp Add="/TextExport/Texts">
+            <!-- Title -->
+            <Text>
+                <Text>PlaceholderText (Trident)</Text>
+                <LineId>1600000597</LineId> <!-- <GUID>1600000597</GUID> -->
+            </Text>
+            <!-- Description -->
+            <Text>
+                <Text>PlaceholderText &#xD;(Colosseum-Pack)</Text>
+                <LineId>1600000598</LineId> 
+            </Text>
+            <!-- Boosted Description -->
+            <Text>
+                <Text>PlaceholderText &#xD;(Shark in same Building)</Text>
+                <LineId>1600000599</LineId> 
+            </Text>
+        </ModOp>
+    </Group>
+
+    <!-- Specialist AE-Collo-Shark-L -->
+    <Group>
+        <ModOp Add="/TextExport/Texts">
+            <!-- Title -->
+            <Text>
+                <Text>PlaceholderText (Shark)</Text>
+                <LineId>1600000604</LineId> <!-- <GUID>1600000604</GUID> -->
+            </Text>
+            <!-- Description -->
+            <Text>
+                <Text>PlaceholderText &#xD;(Colosseum-Pack)</Text>
+                <LineId>1600000605</LineId> 
+            </Text>
+            <!-- Boosted Description -->
+            <Text>
+                <Text>PlaceholderText &#xD;(8x Fisheries on Island)</Text>
+                <LineId>1600000606</LineId> 
+            </Text>
+        </ModOp>
+    </Group>
+
+    <!-- Specialist AE-Collo-Celt-Gladiator-L -->
+    <Group>
+        <ModOp Add="/TextExport/Texts">
+            <!-- Title -->
+            <Text>
+                <Text>PlaceholderText (Celt Gladiator)</Text>
+                <LineId>1600000610</LineId> <!-- <GUID>1600000604</GUID> -->
+            </Text>
+            <!-- Description -->
+            <Text>
+                <Text>PlaceholderText &#xD;(Colosseum-Pack)</Text>
+                <LineId>1600000611</LineId> 
+            </Text>
+            <!-- Boosted Description -->
+            <Text>
+                <Text>PlaceholderText &#xD;(Bear in same Building)</Text>
+                <LineId>1600000612</LineId> 
+            </Text>
+        </ModOp>
+    </Group>
 </ModOps>
