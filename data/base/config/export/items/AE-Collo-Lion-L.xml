@@ -8,7 +8,7 @@
             <Standard>
                 <GUID>1600000583</GUID>
                 <Name>Specialist AE-Collo-Lion-L</Name>
-                <IconFilename>data/base/graphics/icons/_Placeholder.jpeg</IconFilename>
+                <IconFilename>data/base/graphics/icons/lion.png</IconFilename>
                 <InfoDescription>1600000584</InfoDescription>
             </Standard>
             <Effect>
@@ -100,7 +100,7 @@
                     <Standard>
                         <GUID>1600000584</GUID>
                         <Name>Specialist AE-Collo-Lion-L BuildingBuff</Name>
-                        <IconFilename>data/base/graphics/icons/_Placeholder.jpeg</IconFilename>
+                        <IconFilename>data/base/graphics/icons/lion.png</IconFilename>
                     </Standard>
                     <Text>
                         <OasisId>1600000583</OasisId>
@@ -135,7 +135,7 @@
                     <Standard>
                         <GUID>1600000585</GUID>
                         <Name>Specialist AE-Collo-Lion-L FunctionalEffect</Name>
-                        <IconFilename>data/base/graphics/icons/_Placeholder.jpeg</IconFilename>
+                        <IconFilename>data/base/graphics/icons/lion.png</IconFilename>
                     </Standard>
                     <Effect>
                         <EffectScope>StreetDistance</EffectScope>
@@ -167,7 +167,7 @@
                     <Standard>
                         <GUID>1600000586</GUID>
                         <Name>Specialist AE-Collo-Lion-L FunctionalEffect BuildingBuff</Name>
-                        <IconFilename>data/base/graphics/icons/_Placeholder.jpeg</IconFilename>
+                        <IconFilename>data/base/graphics/icons/lion.png</IconFilename>
                     </Standard>
                     <Text>
                         <OasisId>1600000583</OasisId>
@@ -254,7 +254,7 @@
                     <Standard>
                         <GUID>1600000587</GUID>
                         <Name>Specialist AE-Collo-Lion-L Boosted BuildingBuff</Name>
-                        <IconFilename>data/base/graphics/icons/_Placeholder.jpeg</IconFilename>
+                        <IconFilename>data/base/graphics/icons/lion.png</IconFilename>
                     </Standard>
                     <Text>
                         <OasisId>1600000583</OasisId>
@@ -289,7 +289,7 @@
                     <Standard>
                         <GUID>1600000588</GUID>
                         <Name>Specialist AE-Collo-Lion-L Boosted FunctionalEffect</Name>
-                        <IconFilename>data/base/graphics/icons/_Placeholder.jpeg</IconFilename>
+                        <IconFilename>data/base/graphics/icons/lion.png</IconFilename>
                     </Standard>
                     <Effect>
                         <EffectScope>StreetDistance</EffectScope>
@@ -321,7 +321,7 @@
                     <Standard>
                         <GUID>1600000589</GUID>
                         <Name>Specialist AE-Collo-Lion-L Boosted FunctionalEffect BuildingBuff</Name>
-                        <IconFilename>data/base/graphics/icons/_Placeholder.jpeg</IconFilename>
+                        <IconFilename>data/base/graphics/icons/lion.png</IconFilename>
                     </Standard>
                     <Text>
                         <OasisId>1600000583</OasisId>

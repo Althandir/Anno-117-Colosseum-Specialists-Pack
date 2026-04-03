@@ -5,17 +5,17 @@
         <ModOp Add="/TextExport/Texts">
             <!-- Title -->
             <Text>
-                <Text>Leo Victor, Brüllender Gladiator</Text>
+                <Text>Leo Victor, Der Brüllende Gladiator</Text>
                 <LineId>1600000144</LineId> <!-- <GUID>1600000144</GUID> -->
             </Text>
             <!-- Description -->
             <Text>
-                <Text>Brüllt laut wie ein Löwe! Bereit für Ruhm zu kämpfen! &#xD;(Colosseum-Pack)</Text>
+                <Text>"Sein Brüllen lass das Publikum erschauern und seine Kontrahenten in Furcht erstarren. Nun ist er Bereit für den Ruhm der Arena zu kämpfen!" &#xD;(Colosseum-Pack)</Text>
                 <LineId>1600000145</LineId> 
             </Text>
             <!-- Boosted Description -->
             <Text>
-                <Text>PlaceholderText &#xD;(Lion in same Building)</Text>
+                <Text>Will mit seinem Brüllen einen echten Löwen übertreffen! &#xD;(Wütender Löwe in selben Officium / Villa)</Text>
                 <LineId>1600000146</LineId> 
             </Text>
         </ModOp>
@@ -26,17 +26,17 @@
         <ModOp Add="/TextExport/Texts">
             <!-- Title -->
             <Text>
-                <Text>PlaceholderText (Löwe)</Text>
+                <Text>PlaceholderText, Wütender Löwe</Text>
                 <LineId>1600000583</LineId> <!-- <GUID>1600000583</GUID> -->
             </Text>
             <!-- Description -->
             <Text>
-                <Text>PlaceholderText &#xD;(Colosseum-Pack)</Text>
+                <Text>"Seine Krallen zerfleischen jeden Widersacher in der Arena. Möge Jupiter Gnade mit seinen Opfern haben!" &#xD;(Colosseum-Pack)</Text>
                 <LineId>1600000584</LineId> 
             </Text>
             <!-- Boosted Description -->
             <Text>
-                <Text>PlaceholderText &#xD;(3x Sheep Pasture on Island)</Text>
+                <Text>Wehrlose Schafe sind die perfekte Ernährung für Löwen. &#xD;(3x Schafsfarmen auf Insel)</Text>
                 <LineId>1600000585</LineId> 
             </Text>
         </ModOp>
@@ -52,12 +52,12 @@
             </Text>
             <!-- Description -->
             <Text>
-                <Text>PlaceholderText &#xD;(Colosseum-Pack)</Text>
+                <Text>"Dieser Bär aus den Gefilden der Perser ist nun hier um in der Arena seinen Platz zu erkämpfen! Dabei kämpft er überraschend ähnlich wie ein Legionär!" &#xD;(Colosseum-Pack)</Text>
                 <LineId>1600000591</LineId> 
             </Text>
             <!-- Boosted Description -->
             <Text>
-                <Text>PlaceholderText &#xD;(2x Barracks on Island)</Text>
+                <Text>Flieht oft aus dem Gehege und mischt sich zu gerne unter Legionären. &#xD;(2x Kasernen auf Insel)</Text>
                 <LineId>1600000592</LineId> 
             </Text>
         </ModOp>
@@ -68,17 +68,17 @@
         <ModOp Add="/TextExport/Texts">
             <!-- Title -->
             <Text>
-                <Text>PlaceholderText (Trident)</Text>
+                <Text>PlaceholderText, Der Ruhmreiche Dreizack</Text>
                 <LineId>1600000597</LineId> <!-- <GUID>1600000597</GUID> -->
             </Text>
             <!-- Description -->
             <Text>
-                <Text>PlaceholderText &#xD;(Colosseum-Pack)</Text>
+                <Text>"Dieser Gladiator kämpft mit der Waffe Neptunes gegen seine Kontrahenten! Ob er auch Neptuns Segen besitzt wird sich zeigen!" &#xD;(Colosseum-Pack)</Text>
                 <LineId>1600000598</LineId> 
             </Text>
             <!-- Boosted Description -->
             <Text>
-                <Text>PlaceholderText &#xD;(Shark in same Building)</Text>
+                <Text>Wünscht sich den Kampf mit Aquatischen Wesen. &#xD;(Blutsüchtiger Hai in selben Officium / Villa)</Text>
                 <LineId>1600000599</LineId> 
             </Text>
         </ModOp>
@@ -89,17 +89,17 @@
         <ModOp Add="/TextExport/Texts">
             <!-- Title -->
             <Text>
-                <Text>PlaceholderText (Shark)</Text>
+                <Text>PlaceholderText, Blutsüchtiger Hai</Text>
                 <LineId>1600000604</LineId> <!-- <GUID>1600000604</GUID> -->
             </Text>
             <!-- Description -->
             <Text>
-                <Text>PlaceholderText &#xD;(Colosseum-Pack)</Text>
+                <Text>"Das Ungeheuer der Meere! Während der Naumachie ist dieser Hai immer für eine Überaschung gut und hinterlässt von seinem Widersacher nur eine schwimmende Blutlache!" &#xD;(Colosseum-Pack)</Text>
                 <LineId>1600000605</LineId> 
             </Text>
             <!-- Boosted Description -->
             <Text>
-                <Text>PlaceholderText &#xD;(8x Fisheries on Island)</Text>
+                <Text>Fische sollten den Hai bei Laune halten. &#xD;(8x Fischereien auf Insel)</Text>
                 <LineId>1600000606</LineId> 
             </Text>
         </ModOp>
@@ -110,17 +110,17 @@
         <ModOp Add="/TextExport/Texts">
             <!-- Title -->
             <Text>
-                <Text>PlaceholderText (Celt Gladiator)</Text>
+                <Text>PlaceholderText, Der Nordische Jäger</Text>
                 <LineId>1600000610</LineId> <!-- <GUID>1600000604</GUID> -->
             </Text>
             <!-- Description -->
             <Text>
-                <Text>PlaceholderText &#xD;(Colosseum-Pack)</Text>
+                <Text>"Dieser Kelte kennt jedes Wesen aus dem hohen Norden und ist nun hier auf der Suche nach neuen Widersachern. Wünschen wir ihm alles Beste? Oder soll dieser Wilde untergehen?" &#xD;(Colosseum-Pack)</Text>
                 <LineId>1600000611</LineId> 
             </Text>
             <!-- Boosted Description -->
             <Text>
-                <Text>PlaceholderText &#xD;(Bear in same Building)</Text>
+                <Text>Sehnt sich nach dem Kampf mit einem Bären aus anderen Gefilden. &#xD;(Persischer Bär in selben Officium / Villa)</Text>
                 <LineId>1600000612</LineId> 
             </Text>
         </ModOp>

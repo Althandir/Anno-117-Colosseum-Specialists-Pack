@@ -8,7 +8,7 @@
             <Standard>
                 <GUID>1600000610</GUID>
                 <Name>Specialist AE-Collo-Celt-Gladiator-L</Name>
-                <IconFilename>data/base/graphics/icons/_Placeholder.jpeg</IconFilename>
+                <IconFilename>data/base/graphics/icons/Celt_Gladiator.png</IconFilename>
                 <InfoDescription>1600000611</InfoDescription>
             </Standard>
             <Effect>
@@ -85,7 +85,7 @@
                     <Standard>
                         <GUID>1600000611</GUID>
                         <Name>Specialist AE-Collo-Celt-Gladiator-L BuildingBuff</Name>
-                        <IconFilename>data/base/graphics/icons/_Placeholder.jpeg</IconFilename>
+                        <IconFilename>data/base/graphics/icons/Celt_Gladiator.png</IconFilename>
                     </Standard>
                     <Text>
                         <OasisId>1600000610</OasisId>
@@ -120,7 +120,7 @@
                     <Standard>
                         <GUID>1600000612</GUID>
                         <Name>Specialist AE-Collo-Celt-Gladiator-L FunctionalEffect</Name>
-                        <IconFilename>data/base/graphics/icons/_Placeholder.jpeg</IconFilename>
+                        <IconFilename>data/base/graphics/icons/Celt_Gladiator.png</IconFilename>
                     </Standard>
                     <Effect>
                         <EffectScope>StreetDistance</EffectScope>
@@ -152,7 +152,7 @@
                     <Standard>
                         <GUID>1600000613</GUID>
                         <Name>Specialist AE-Collo-Celt-Gladiator-L FunctionalEffect BuildingBuff</Name>
-                        <IconFilename>data/base/graphics/icons/_Placeholder.jpeg</IconFilename>
+                        <IconFilename>data/base/graphics/icons/Celt_Gladiator.png</IconFilename>
                     </Standard>
                     <Text>
                         <OasisId>1600000610</OasisId>
@@ -239,7 +239,7 @@
                     <Standard>
                         <GUID>1600000614</GUID>
                         <Name>Specialist AE-Collo-Celt-Gladiator-L Boosted BuildingBuff</Name>
-                        <IconFilename>data/base/graphics/icons/_Placeholder.jpeg</IconFilename>
+                        <IconFilename>data/base/graphics/icons/Celt_Gladiator.png</IconFilename>
                     </Standard>
                     <Text>
                         <OasisId>1600000610</OasisId>
@@ -274,7 +274,7 @@
                     <Standard>
                         <GUID>1600000615</GUID>
                         <Name>Specialist AE-Collo-Celt-Gladiator-L Boosted FunctionalEffect</Name>
-                        <IconFilename>data/base/graphics/icons/_Placeholder.jpeg</IconFilename>
+                        <IconFilename>data/base/graphics/icons/Celt_Gladiator.png</IconFilename>
                     </Standard>
                     <Effect>
                         <EffectScope>StreetDistance</EffectScope>
@@ -306,7 +306,7 @@
                     <Standard>
                         <GUID>1600000616</GUID>
                         <Name>Specialist AE-Collo-Celt-Gladiator-L Boosted FunctionalEffect BuildingBuff</Name>
-                        <IconFilename>data/base/graphics/icons/_Placeholder.jpeg</IconFilename>
+                        <IconFilename>data/base/graphics/icons/Celt_Gladiator.png</IconFilename>
                     </Standard>
                     <Text>
                         <OasisId>1600000610</OasisId>
