@@ -1,0 +1,18 @@
+<ModOps>
+<!-- Add to RewardPools -->
+<!-- RewardList Diplomacy Legendary -->
+<Group>
+    <ModOp Type="add" GUID="121878" Path="/Values/RewardPool/ItemsPool">
+        <Item>
+            <ItemLink>1600000144</ItemLink>
+        </Item>
+        <Item>
+            <ItemLink>1600000597</ItemLink>
+        </Item>
+        <Item>
+            <ItemLink>1600000610</ItemLink>
+        </Item>
+    </ModOp>
+</Group>
+
+</ModOps>

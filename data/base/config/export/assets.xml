@@ -6,53 +6,34 @@
 
 ###  
 #   GUID-Ranges:  
-#   1600000144 - 1600000xxx 
-#
-#
-#
-#
-#
-#
+#   1600000144 - 1600000147 + 1600000580 - 1600000582 (Gladiator)
+#   1600000583 - 1600000586 + 1600000587 - 1600000589 (Lion)
+#   1600000590 - 1600000593 + 1600000594 - 1600000596 (Bear)
+#   1600000597 - 1600000600 + 1600000601 - 1600000603 (Trident)
+#   1600000604 - 1600000606 + 1600000607 - 1600000609 (Shark)
+#   1600000610 - 1600000613 + 1600000614 - 1600000616 (Celt-Gladiator)
 #
 ###
 -->
 <ModOps>
 
-<!-- Testing -->
-<Group>
-<!--
-<Include File="testing/pools-forceSpawnTesting.xml"/> 
--->
-</Group>
-
-<!-- Common Specialists -->
-<Group>
-    
-</Group>
-
-<!-- Rare Specialists -->
-<Group>
-
-</Group>
-
-<!-- Epic Specialists -->
-<Group>
-
-</Group>
-
 <!-- Legendary Specialists -->
 <Group>
-    <Include File="items-legendary/AreaEffect-CollosseumGladiator-L.xml" />
+    <Include File="items/AE-Collo-Bear-L.xml" />
+    <Include File="items/AE-Collo-Celt-Gladiator-L.xml" />
+    <Include File="items/AE-Collo-Gladiator-L.xml" />
+    <Include File="items/AE-Collo-Lion-L.xml" />
+    <Include File="items/AE-Collo-Shark-L.xml" />
+    <Include File="items/AE-Collo-Trident-L.xml" />
 </Group>
 
 <!-- Add to Pools -->
 <Include File="pools/AssetList/AssetListPool.xml" />
-<Include File="pools/RewardPool/RewardPool-AllItems&Specialists.xml" />
+<Include File="pools/RewardPool/AllItems&Specialists.xml" />
 
+<Include File="pools/RewardPool/Diplomacy-L.xml" />
+<Include File="pools/RewardPool/Nature-L.xml" />
 <!-- Add to Traderpools --> 
-<Include File="pools/Traders/pools-common.xml" />
-<Include File="pools/Traders/pools-rare.xml" />
-<Include File="pools/Traders/pools-epic.xml" />
 <Include File="pools/Traders/pools-legendary.xml" />
 
 
