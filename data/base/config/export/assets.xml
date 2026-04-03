@@ -31,8 +31,8 @@
 <Include File="pools/AssetList/AssetListPool.xml" />
 <Include File="pools/RewardPool/AllItems&Specialists.xml" />
 
-
-
+<Include File="pools/RewardPool/Diplomacy-L.xml" />
+<Include File="pools/RewardPool/Nature-L.xml" />
 <!-- Add to Traderpools --> 
 <Include File="pools/Traders/pools-legendary.xml" />
 
