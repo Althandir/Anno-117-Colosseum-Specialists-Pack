@@ -10,7 +10,7 @@
             </Text>
             <!-- Description -->
             <Text>
-                <Text>"Sein Brüllen lass das Publikum erschauern und seine Kontrahenten in Furcht erstarren. Nun ist er Bereit für den Ruhm der Arena zu kämpfen!" &#xD;(Colosseum-Pack)</Text>
+                <Text>"Sein Brüllen lass das Publikum erschauern und seine Kontrahenten in Furcht erstarren.&#xD;Nun ist er Bereit für den Ruhm der Arena zu kämpfen!" &#xD;(Colosseum-Pack)</Text>
                 <LineId>1600000145</LineId> 
             </Text>
             <!-- Boosted Description -->
@@ -26,12 +26,12 @@
         <ModOp Add="/TextExport/Texts">
             <!-- Title -->
             <Text>
-                <Text>PlaceholderText, Wütender Löwe</Text>
+                <Text>Wütender Löwe</Text>
                 <LineId>1600000583</LineId> <!-- <GUID>1600000583</GUID> -->
             </Text>
             <!-- Description -->
             <Text>
-                <Text>"Seine Krallen zerfleischen jeden Widersacher in der Arena. Möge Jupiter Gnade mit seinen Opfern haben!" &#xD;(Colosseum-Pack)</Text>
+                <Text>"Seine Krallen zerfleischen jeden Widersacher in der Arena.&#xD;Möge Jupiter Gnade mit seinen Opfern haben!" &#xD;(Colosseum-Pack)</Text>
                 <LineId>1600000584</LineId> 
             </Text>
             <!-- Boosted Description -->
@@ -52,7 +52,7 @@
             </Text>
             <!-- Description -->
             <Text>
-                <Text>"Dieser Bär aus den Gefilden der Perser ist nun hier um in der Arena seinen Platz zu erkämpfen! Dabei kämpft er überraschend ähnlich wie ein Legionär!" &#xD;(Colosseum-Pack)</Text>
+                <Text>"Dieser Bär aus den Gefilden der Perser ist nun hier um in der Arena seinen Platz zu erkämpfen!&#xD;Dabei kämpft er überraschend ähnlich wie ein Legionär!" &#xD;(Colosseum-Pack)</Text>
                 <LineId>1600000591</LineId> 
             </Text>
             <!-- Boosted Description -->
@@ -68,12 +68,12 @@
         <ModOp Add="/TextExport/Texts">
             <!-- Title -->
             <Text>
-                <Text>PlaceholderText, Der Ruhmreiche Dreizack</Text>
+                <Text>Tridentinus, Der Ruhmreiche Dreizack</Text>
                 <LineId>1600000597</LineId> <!-- <GUID>1600000597</GUID> -->
             </Text>
             <!-- Description -->
             <Text>
-                <Text>"Dieser Gladiator kämpft mit der Waffe Neptunes gegen seine Kontrahenten! Ob er auch Neptuns Segen besitzt wird sich zeigen!" &#xD;(Colosseum-Pack)</Text>
+                <Text>"Dieser Retiarii nutzt die Waffe Neptunes gegen seine Kontrahenten!&#xD;Ob er auch Neptuns Segen besitzt wird sich zeigen!" &#xD;(Colosseum-Pack)</Text>
                 <LineId>1600000598</LineId> 
             </Text>
             <!-- Boosted Description -->
@@ -89,7 +89,7 @@
         <ModOp Add="/TextExport/Texts">
             <!-- Title -->
             <Text>
-                <Text>PlaceholderText, Blutsüchtiger Hai</Text>
+                <Text>Blutsüchtiger Hai</Text>
                 <LineId>1600000604</LineId> <!-- <GUID>1600000604</GUID> -->
             </Text>
             <!-- Description -->
@@ -110,12 +110,12 @@
         <ModOp Add="/TextExport/Texts">
             <!-- Title -->
             <Text>
-                <Text>PlaceholderText, Der Nordische Jäger</Text>
+                <Text>Uernos, Der Nordische Jäger</Text>
                 <LineId>1600000610</LineId> <!-- <GUID>1600000604</GUID> -->
             </Text>
             <!-- Description -->
             <Text>
-                <Text>"Dieser Kelte kennt jedes Wesen aus dem hohen Norden und ist nun hier auf der Suche nach neuen Widersachern. Wünschen wir ihm alles Beste? Oder soll dieser Wilde untergehen?" &#xD;(Colosseum-Pack)</Text>
+                <Text>"Seht nach Norden, wo der Frost den Atem stiehlt!&#xD;Hier steht Uernos, den sie nur den Nordischen Jäger nennen! Dieser Kelte kennt jedes Wesen, das durch den tiefen Schnee streift, und ist nun hierhergekommen, um unter unserer Sonne nach neuen, blutigen Widersachern zu suchen.&#xD;Sagt mir: Wünschen wir diesem Meister der Wildnis das Beste? Oder soll dieser Wilde im Staub unserer Arena untergehen?!" &#xD;(Colosseum-Pack)</Text>
                 <LineId>1600000611</LineId> 
             </Text>
             <!-- Boosted Description -->
