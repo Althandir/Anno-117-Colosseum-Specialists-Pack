@@ -5,7 +5,7 @@
         <ModOp Add="/TextExport/Texts">
             <!-- Title -->
             <Text>
-                <Text>Leo Victor, Der Brüllende Gladiator</Text>
+                <Text>Victorius Novus, Der Brüllende Gladiator</Text>
                 <LineId>1600000144</LineId> <!-- <GUID>1600000144</GUID> -->
             </Text>
             <!-- Description -->
