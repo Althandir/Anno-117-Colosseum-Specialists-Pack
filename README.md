@@ -1,0 +1,18 @@
+# Colosseum Specialist Pack - Mod
+This mod adds Specialists focused on the Colosseum into Anno 117. This Mod is part as a submod of "Extended Specialists Mod".
+***
+### Item Overview (AI Generated - Might contain Issues. Please point them out if you find some)
+***
+
+###  Legendary Specialists
+
+| Image Preview | GUID | Internal Name | Specialist Name | Description | Base Effects | Boost Condition | Boosted Effect |
+| :---: | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| ![Icon](data/base/graphics/icons/male\_CollosseumGladiator.png) | 1600000144 | Specialist AE-Collo-Gladiator-L | Victorius Novus, The Roaring Gladiator | "His roar sends shivers down the audience's spines and leaves his opponents frozen in fear. Now he's ready to fight for glory in the arena!" (Colosseum-Pack) | New Areaeffect:<br>• +0.5 Happiness <br>• +0.5 Money <br>• +1.5 Prestige<br> | Lion in same Officium | New Areaeffect:<br>• +1 Happiness<br>• +1 Money<br>• +2 Prestige |
+| ![Icon](data/base/graphics/icons/lion.png) | 1600000583 | Specialist AE-Collo-Lion-L | Furious Lion | "His claws tear apart every opponent in the arena. May Jupiter have mercy on his victims!" (Colosseum-Pack) | New Areaeffect:<br>• +0.5 Happiness<br> • +1 Knowledge<br> • +1 Health | Requires 3x Sheep pastures on Island.<br>(Boost Hint: Helpless sheep are the perfect diet for lions.) |New Areaeffect:<br>• +1 Happiness<br> • +2 Prestige<br> • +2 Knowledge |
+| ![Icon](data/base/graphics/icons/brown\_bear.png) | 1600000590 | Specialist AE-Collo-Bear-L | Wojtecus, Adopted Persian War Bear | "This bear from the lands of the Persians is now here to fight for his place in the arena! And he fights in a surprisingly similar manner to a legionnaire!" (Colosseum-Pack) | New Areaeffect:<br>• +0.5 Happiness<br> • +1 Prestige<br> • +0.5 Knowledge<br> • +0.5 Health<br>| Requires 2x Barracks on Island.<br> | New Areaeffect:<br>• +1 Happiness<br> • +2 Prestige<br> • +1 Knowledge<br> • +1 Health |
+| ![Icon](data/base/graphics/icons/Gladiator\_Trident.png) | 1600000597 | Specialist AE-Collo-Trident-L | Tridentinus, The Glorious Trident | "This retiarius uses Neptune's weapon against his opponents!\r\nWhether he also has Neptune's blessing remains to be seen!" (Colosseum-Pack) | New Areaeffect:<br>• +0.5 Happiness<br> • +1 Prestige<br> • +1 FireSafety<br> • +0.5 Health<br> | Shark in same Officium | New Areaeffect:<br>• +1 Happiness<br> • +2 Prestige<br> • +2 FireSafety |
+| ![Icon](data/base/graphics/icons/shark.png) | 1600000604 | Specialist AE-Collo-Shark-L | Bloodthirsty Shark | "The monster of the seas! During the Naumachia, this shark is always good for a surprise and leaves nothing but a pool of blood in its wake!" (Colosseum-Pack) | New Areaeffect:<br>• +1 Knowledge<br> • +0.5 Prestige<br> • +1 Money<br> • +1 Health<br> | Requires 8x Fisheries on Island.<br> | New Areaeffect:<br>• +2 Prestige<br> • +2 Money<br> • +2 Knowledge |
+| ![Icon](data/base/graphics/icons/Celt\_Gladiator.png) | 1600000610 | Specialist AE-Collo-Celt-Gladiator-L | Uernos, The Nordic Hunter | "Look north, where the frost steals one’s breath! Here stands Uernos, whom they call only The Northic Hunter! This Celt knows every creature that roams the deep snow, and has now come here to seek new, bloody adversaries under our sun. Tell me: Do we wish this master of the wilderness well? Or shall this savage perish in the dust of our arena?!" (Colosseum-Pack) |  New Areaeffect:<br>• +0.5 Money<br> • +1 Prestige<br> • +1 Health<br> | Bear in same Officium |  New Areaeffect:<br>• +1 Money<br> • +2 Prestige<br> • +2 Health<br> |
+
+***
