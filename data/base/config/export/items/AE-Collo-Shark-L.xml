@@ -107,7 +107,7 @@
                     </Text>
                     <HealthUpgrade/>
                     <BuildingUpgrade>
-                        <AdditionalFunctionalEffect>1600000585</AdditionalFunctionalEffect>
+                        <AdditionalFunctionalEffect>1600001054</AdditionalFunctionalEffect>
                     </BuildingUpgrade>
                     <DistributionUpgrade/>
                     <Buff>
@@ -133,7 +133,7 @@
                 <Template>Effect</Template>
                 <Values>
                     <Standard>
-                        <GUID>1600000585</GUID>
+                        <GUID>1600001054</GUID>
                         <Name>Specialist AE-Collo-Shark-L FunctionalEffect</Name>
                         <IconFilename>data/base/graphics/icons/shark.png</IconFilename>
                     </Standard>
