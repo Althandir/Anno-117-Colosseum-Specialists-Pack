@@ -8,7 +8,7 @@
             <Standard>
                 <GUID>1600000597</GUID>
                 <Name>Specialist AE-Collo-Trident-L</Name>
-                <IconFilename>data/base/graphics/icons/Gladiator_Trident.png</IconFilename>
+                <IconFilename>data/base/graphics/icons/Colosseum-Pack/Gladiator_Trident.png</IconFilename>
                 <InfoDescription>1600000598</InfoDescription>
             </Standard>
             <Effect>
@@ -85,7 +85,7 @@
                     <Standard>
                         <GUID>1600000598</GUID>
                         <Name>Specialist AE-Collo-Trident-L BuildingBuff</Name>
-                        <IconFilename>data/base/graphics/icons/Gladiator_Trident.png</IconFilename>
+                        <IconFilename>data/base/graphics/icons/Colosseum-Pack/Gladiator_Trident.png</IconFilename>
                     </Standard>
                     <Text>
                         <OasisId>1600000597</OasisId>
@@ -120,7 +120,7 @@
                     <Standard>
                         <GUID>1600000599</GUID>
                         <Name>Specialist AE-Collo-Trident-L FunctionalEffect</Name>
-                        <IconFilename>data/base/graphics/icons/Gladiator_Trident.png</IconFilename>
+                        <IconFilename>data/base/graphics/icons/Colosseum-Pack/Gladiator_Trident.png</IconFilename>
                     </Standard>
                     <Effect>
                         <EffectScope>StreetDistance</EffectScope>
@@ -152,7 +152,7 @@
                     <Standard>
                         <GUID>1600000600</GUID>
                         <Name>Specialist AE-Collo-Trident-L FunctionalEffect BuildingBuff</Name>
-                        <IconFilename>data/base/graphics/icons/Gladiator_Trident.png</IconFilename>
+                        <IconFilename>data/base/graphics/icons/Colosseum-Pack/Gladiator_Trident.png</IconFilename>
                     </Standard>
                     <Text>
                         <OasisId>1600000597</OasisId>
@@ -239,7 +239,7 @@
                     <Standard>
                         <GUID>1600000601</GUID>
                         <Name>Specialist AE-Collo-Trident-L Boosted BuildingBuff</Name>
-                        <IconFilename>data/base/graphics/icons/Gladiator_Trident.png</IconFilename>
+                        <IconFilename>data/base/graphics/icons/Colosseum-Pack/Gladiator_Trident.png</IconFilename>
                     </Standard>
                     <Text>
                         <OasisId>1600000597</OasisId>
@@ -274,7 +274,7 @@
                     <Standard>
                         <GUID>1600000602</GUID>
                         <Name>Specialist AE-Collo-Trident-L Boosted FunctionalEffect</Name>
-                        <IconFilename>data/base/graphics/icons/Gladiator_Trident.png</IconFilename>
+                        <IconFilename>data/base/graphics/icons/Colosseum-Pack/Gladiator_Trident.png</IconFilename>
                     </Standard>
                     <Effect>
                         <EffectScope>StreetDistance</EffectScope>
@@ -306,7 +306,7 @@
                     <Standard>
                         <GUID>1600000603</GUID>
                         <Name>Specialist AE-Collo-Trident-L Boosted FunctionalEffect BuildingBuff</Name>
-                        <IconFilename>data/base/graphics/icons/Gladiator_Trident.png</IconFilename>
+                        <IconFilename>data/base/graphics/icons/Colosseum-Pack/Gladiator_Trident.png</IconFilename>
                     </Standard>
                     <Text>
                         <OasisId>1600000597</OasisId>
