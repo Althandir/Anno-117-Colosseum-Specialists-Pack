@@ -8,11 +8,11 @@
             <Standard>
                 <GUID>1600000144</GUID>
                 <Name>Specialist AE-Collo-Gladiator-L</Name>
-                <IconFilename>data/base/graphics/icons/male_CollosseumGladiator.png</IconFilename>
+                <IconFilename>data/base/graphics/icons/Colosseum-Pack/male_CollosseumGladiator.png</IconFilename>
                 <InfoDescription>1600000145</InfoDescription>
             </Standard>
             <Effect>
-                <EffectScope>Radius</EffectScope>  
+                <EffectScope>ObjectsInArea</EffectScope>  
                 <SourceCategory>Item</SourceCategory>
                 <Buffs>
                 <Item>
@@ -85,7 +85,7 @@
                     <Standard>
                         <GUID>1600000145</GUID>
                         <Name>Specialist AE-Collo-Gladiator-L BuildingBuff</Name>
-                        <IconFilename>data/base/graphics/icons/male_CollosseumGladiator.png</IconFilename>
+                        <IconFilename>data/base/graphics/icons/Colosseum-Pack/male_CollosseumGladiator.png</IconFilename>
                     </Standard>
                     <Text>
                         <OasisId>1600000144</OasisId>
@@ -120,7 +120,7 @@
                     <Standard>
                         <GUID>1600000146</GUID>
                         <Name>Specialist AE-Collo-Gladiator-L FunctionalEffect</Name>
-                        <IconFilename>data/base/graphics/icons/male_CollosseumGladiator.png</IconFilename>
+                        <IconFilename>data/base/graphics/icons/Colosseum-Pack/male_CollosseumGladiator.png</IconFilename>
                     </Standard>
                     <Effect>
                         <EffectScope>StreetDistance</EffectScope>
@@ -152,7 +152,7 @@
                     <Standard>
                         <GUID>1600000147</GUID>
                         <Name>Specialist AE-Collo-Gladiator-L FunctionalEffect BuildingBuff</Name>
-                        <IconFilename>data/base/graphics/icons/male_CollosseumGladiator.png</IconFilename>
+                        <IconFilename>data/base/graphics/icons/Colosseum-Pack/male_CollosseumGladiator.png</IconFilename>
                     </Standard>
                     <Text>
                         <OasisId>1600000144</OasisId>
@@ -239,7 +239,7 @@
                     <Standard>
                         <GUID>1600000580</GUID>
                         <Name>Specialist AE-Collo-Gladiator-L Boosted BuildingBuff</Name>
-                        <IconFilename>data/base/graphics/icons/male_CollosseumGladiator.png</IconFilename>
+                        <IconFilename>data/base/graphics/icons/Colosseum-Pack/male_CollosseumGladiator.png</IconFilename>
                     </Standard>
                     <Text>
                         <OasisId>1600000144</OasisId>
@@ -274,7 +274,7 @@
                     <Standard>
                         <GUID>1600000581</GUID>
                         <Name>Specialist AE-Collo-Gladiator-L Boosted FunctionalEffect</Name>
-                        <IconFilename>data/base/graphics/icons/male_CollosseumGladiator.png</IconFilename>
+                        <IconFilename>data/base/graphics/icons/Colosseum-Pack/male_CollosseumGladiator.png</IconFilename>
                     </Standard>
                     <Effect>
                         <EffectScope>StreetDistance</EffectScope>
@@ -306,7 +306,7 @@
                     <Standard>
                         <GUID>1600000582</GUID>
                         <Name>Specialist AE-Collo-Gladiator-L Boosted FunctionalEffect BuildingBuff</Name>
-                        <IconFilename>data/base/graphics/icons/male_CollosseumGladiator.png</IconFilename>
+                        <IconFilename>data/base/graphics/icons/Colosseum-Pack/male_CollosseumGladiator.png</IconFilename>
                     </Standard>
                     <Text>
                         <OasisId>1600000144</OasisId>

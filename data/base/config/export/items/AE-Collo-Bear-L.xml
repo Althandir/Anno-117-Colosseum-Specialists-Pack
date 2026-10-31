@@ -8,11 +8,11 @@
             <Standard>
                 <GUID>1600000590</GUID>
                 <Name>Specialist AE-Collo-Bear-L</Name>
-                <IconFilename>data/base/graphics/icons/brown_bear.png</IconFilename>
+                <IconFilename>data/base/graphics/icons/Colosseum-Pack/brown_bear.png</IconFilename>
                 <InfoDescription>1600000591</InfoDescription>
             </Standard>
             <Effect>
-                <EffectScope>Radius</EffectScope>  
+                <EffectScope>ObjectsInArea</EffectScope>  
                 <SourceCategory>Item</SourceCategory>
                 <Buffs>
                 <Item>
@@ -100,7 +100,7 @@
                     <Standard>
                         <GUID>1600000591</GUID>
                         <Name>Specialist AE-Collo-Bear-L BuildingBuff</Name>
-                        <IconFilename>data/base/graphics/icons/brown_bear.png</IconFilename>
+                        <IconFilename>data/base/graphics/icons/Colosseum-Pack/brown_bear.png</IconFilename>
                     </Standard>
                     <Text>
                         <OasisId>1600000590</OasisId>
@@ -135,7 +135,7 @@
                     <Standard>
                         <GUID>1600000592</GUID>
                         <Name>Specialist AE-Collo-Bear-L FunctionalEffect</Name>
-                        <IconFilename>data/base/graphics/icons/brown_bear.png</IconFilename>
+                        <IconFilename>data/base/graphics/icons/Colosseum-Pack/brown_bear.png</IconFilename>
                     </Standard>
                     <Effect>
                         <EffectScope>StreetDistance</EffectScope>
@@ -167,7 +167,7 @@
                     <Standard>
                         <GUID>1600000593</GUID>
                         <Name>Specialist AE-Collo-Bear-L FunctionalEffect BuildingBuff</Name>
-                        <IconFilename>data/base/graphics/icons/brown_bear.png</IconFilename>
+                        <IconFilename>data/base/graphics/icons/Colosseum-Pack/brown_bear.png</IconFilename>
                     </Standard>
                     <Text>
                         <OasisId>1600000590</OasisId>
@@ -254,7 +254,7 @@
                     <Standard>
                         <GUID>1600000594</GUID>
                         <Name>Specialist AE-Collo-Bear-L Boosted BuildingBuff</Name>
-                        <IconFilename>data/base/graphics/icons/brown_bear.png</IconFilename>
+                        <IconFilename>data/base/graphics/icons/Colosseum-Pack/brown_bear.png</IconFilename>
                     </Standard>
                     <Text>
                         <OasisId>1600000590</OasisId>
@@ -289,7 +289,7 @@
                     <Standard>
                         <GUID>1600000595</GUID>
                         <Name>Specialist AE-Collo-Bear-L Boosted FunctionalEffect</Name>
-                        <IconFilename>data/base/graphics/icons/brown_bear.png</IconFilename>
+                        <IconFilename>data/base/graphics/icons/Colosseum-Pack/brown_bear.png</IconFilename>
                     </Standard>
                     <Effect>
                         <EffectScope>StreetDistance</EffectScope>
@@ -321,7 +321,7 @@
                     <Standard>
                         <GUID>1600000596</GUID>
                         <Name>Specialist AE-Collo-Bear-L Boosted FunctionalEffect BuildingBuff</Name>
-                        <IconFilename>data/base/graphics/icons/brown_bear.png</IconFilename>
+                        <IconFilename>data/base/graphics/icons/Colosseum-Pack/brown_bear.png</IconFilename>
                     </Standard>
                     <Text>
                         <OasisId>1600000590</OasisId>
